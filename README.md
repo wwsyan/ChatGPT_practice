@@ -1,2 +1,2 @@
-# chatGPT_practice
-长期收集chatGPT应用案例及有价值的对话
+# ChatGPT_practice
+长期收集ChatGPT应用案例及有价值的对话
